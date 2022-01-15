@@ -1680,7 +1680,7 @@ input, select, textarea {
 			overflow-x: hidden; 
 			overflow-y: scroll; 
 		}
-		html, body { height: 100vh; }
+		html, body { height: 100% }
 .footer-element { 
   position: fixed; 
   bottom: calc(10px + (100vh - 100%));
