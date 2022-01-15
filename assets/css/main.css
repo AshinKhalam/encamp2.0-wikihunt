@@ -1379,7 +1379,7 @@ input, select, textarea {
 					padding: 0 1.25rem 0 1.45rem;
 					text-transform: uppercase;
 					letter-spacing: 0.2rem;
-					font-size: 0.8rem;
+					font-size: 20px;
 					border-bottom: 0;
 				}
 
@@ -1680,7 +1680,7 @@ input, select, textarea {
 			overflow-x: hidden; 
 			overflow-y: scroll; 
 		}
-		html, body { height: 100% }
+		html, body { height: 100vh; }
 .footer-element { 
   position: fixed; 
   bottom: calc(10px + (100vh - 100%));
